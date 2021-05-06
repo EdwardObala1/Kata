@@ -13,3 +13,4 @@ For you to be able to run this you will need the following
 The video for the Kata inclusive of testing can be found on:
 https://drive.google.com/file/d/1WJprJ1505B5JExhkBoeq5Lt03T7Gxy2-/view?usp=sharing
 
+On the git repoyou can also fidn my thought process report for the testing and error handling in the code
